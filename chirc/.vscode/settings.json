@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "server.h": "c",
+        "sds.h": "c",
+        "log.h": "c",
+        "channels.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
